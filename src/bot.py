@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 
 load_dotenv()
-BOT_TOKEN = os.environ['BOT_TOKEN']
+BOT_TOKEN = os.environ['7527613198:AAEUHKNA4XBUzAeoMDndY4lgEjoHBIuf0LA']
 MAX_DURATION = float(os.environ['MAX_DURATION'])
 MAX_FILE_SIZE = float(os.environ['MAX_FILE_SIZE'])
 CHAT_ID = int(os.environ['CHAT_ID'])
